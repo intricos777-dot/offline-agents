@@ -1,0 +1,9 @@
+{
+  "$schema": "https://opencode.ai/auth.json",
+  "providers": {
+    "opencode": {
+      "type": "api",
+      "key": "<REDACTED-opencode-zen-api-key>"
+    }
+  }
+}
