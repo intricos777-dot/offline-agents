@@ -59,11 +59,47 @@ Config: `~/.hermes/config.yaml` → `base_url: http://localhost:4141/v1`
 ### OpenCode (local model via Ollama)
 
 ```bash
-# OpenCode can use Ollama as a provider
+# OpenCode uses Ollama as a provider
 opencode run "Your prompt" --model ollama/llama3.1:8b
 ```
 
-Config: `~/.config/opencode/opencode.jsonc` → add Ollama provider.
+Config: `~/.config/opencode/opencode.jsonc` — the `opencode/opencode.jsonc`
+in this repo already contains the provider block:
+
+```jsonc
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {"tirith":["/home/sin/.hermes/bin/tirith","mcp-server"]},
+  "provider": {
+    "ollama": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "Ollama (local)",
+      "options": { "baseURL": "http://localhost:4141/v1" },
+      "models": {
+        "llama3.1:8b": {
+          "name": "llama3.1:8b",
+          "capabilities": { "toolCall": true, "imageInput": false }
+        }
+      }
+    }
+  }
+}
+```
+
+Copy or symlink this file to `~/.config/opencode/opencode.jsonc`.
+Also drop a model reference at `~/.config/opencode/models/llama3.1-8b.md`
+so OpenCode knows the model's capabilities.
+
+> **Note:** Ollama at localhost:4141 runs behind a local reverse proxy and
+> can be slow on first load. Allow 120s+ for cold starts.
+
+```bash
+# Bootstrap: copy the config and model file
+cp ~/offline-agents/opencode/opencode.jsonc ~/.config/opencode/opencode.jsonc
+mkdir -p ~/.config/opencode/models
+cp ~/offline-agents/opencode/models/llama3.1-8b.md ~/.config/opencode/models/ 2>/dev/null || \
+  echo "~/offline-agents/opencode/models/llama3.1-8b.md does not exist — create manually"
+```
 
 ### Ollama Modelfiles
 

@@ -1,4 +1,19 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "mcp": {"tirith":{"command":["/home/sin/.hermes/bin/tirith","mcp-server"],"enabled":true,"type":"local"}}
+  "mcp": {"tirith":{"command":["/home/sin/.hermes/bin/tirith","mcp-server"],"enabled":true,"type":"local"}},
+  "provider": {
+    "ollama": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "Ollama (local)",
+      "options": {
+        "baseURL": "http://localhost:4141/v1"
+      },
+      "models": {
+        "llama3.1:8b": {
+          "name": "llama3.1:8b",
+          "capabilities": { "toolCall": true, "imageInput": false }
+        }
+      }
+    }
+  }
 }
