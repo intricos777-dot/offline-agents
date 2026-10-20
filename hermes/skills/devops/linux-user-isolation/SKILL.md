@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: linux-user-isolation
 description: Run tools as a dedicated Linux user for egress control.

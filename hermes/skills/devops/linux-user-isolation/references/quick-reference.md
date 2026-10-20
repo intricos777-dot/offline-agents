@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # linux-user-isolation Quick Reference
 
 ## Session-Specific Details (Garuda Linux / Arch)

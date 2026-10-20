@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Desktop Engineering Guide
 
 How to build Hermes Desktop well. This is a judgment guide, not an inventory —

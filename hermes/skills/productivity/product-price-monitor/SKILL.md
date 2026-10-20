@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: product-price-monitor
 description: "Watch product, flight, or listing prices; alert on target."

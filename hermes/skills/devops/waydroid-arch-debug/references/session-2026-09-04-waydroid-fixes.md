@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Session 2026-09-04: Waydroid Kernel & Steam Fixes
 
 ## Summary

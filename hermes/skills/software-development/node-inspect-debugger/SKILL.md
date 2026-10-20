@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: node-inspect-debugger
 description: "Debug Node.js via --inspect + Chrome DevTools Protocol CLI."

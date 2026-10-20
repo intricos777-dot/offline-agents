@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Read a PDF: per-page text, tables, metadata, or form fields. JSON to stdout."""
 from __future__ import annotations
 

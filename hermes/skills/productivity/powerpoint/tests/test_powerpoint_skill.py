@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """End-to-end tests for the powerpoint skill helper scripts.
 
 Runs entirely offline. Exercises create, read, template-fill (with

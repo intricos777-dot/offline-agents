@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Ollama Modelfile — llama3.1:8b base
 # Usage: ollama create llama3.1-8b -f this-file.md
 

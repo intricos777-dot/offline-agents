@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 # offline-agents bootstrap — symlinks all resources into live config paths
 set -euo pipefail
 
@@ -33,13 +34,23 @@ if [ ! -e "$HERMES_HOME/memories/MEMORY.md" ]; then
     echo "  linked: MEMORY.md"
 fi
 
-# Hermes bin (tirith, uv, uvx)
+# Hermes bin (tirith, uv, uvx) — only link real, local binaries; never
+# follow dangling or cross-user symlinks into another home directory.
 echo "[3/5] Hermes bin..."
 mkdir -p "$HERMES_HOME/bin"
 for bin in tirith uv uvx; do
-    if [ ! -e "$HERMES_HOME/bin/$bin" ]; then
-        ln -s "$REPO/hermes/bin/$bin" "$HERMES_HOME/bin/$bin"
-        echo "  linked: $bin"
+    src="$REPO/hermes/bin/$bin"
+    if [ ! -e "$src" ]; then
+        echo "  skip: $bin (missing or dangling — install locally and re-run)"
+    elif [ -L "$src" ]; then
+        real=$(readlink -f "$src" 2>/dev/null || true)
+        case "$real" in
+            "$HOME"/*|"$REPO"/*) ;;
+            *) echo "  skip: $bin (symlink escapes home: $real)"; continue ;;
+        esac
+        [ ! -e "$HERMES_HOME/bin/$bin" ] && ln -s "$src" "$HERMES_HOME/bin/$bin" && echo "  linked: $bin"
+    else
+        [ ! -e "$HERMES_HOME/bin/$bin" ] && ln -s "$src" "$HERMES_HOME/bin/$bin" && echo "  linked: $bin"
     fi
 done
 

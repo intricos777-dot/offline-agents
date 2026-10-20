@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Shared page rasterizer with a fallback chain: pypdfium2 -> pdftoppm.
 
 Returns PIL Images so callers can annotate/save. Not a CLI.

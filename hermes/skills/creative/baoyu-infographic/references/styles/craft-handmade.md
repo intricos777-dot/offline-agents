@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # craft-handmade (DEFAULT)
 
 Hand-drawn and paper craft aesthetic with warm, organic feel.

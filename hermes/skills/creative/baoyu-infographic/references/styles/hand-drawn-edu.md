@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # hand-drawn-edu
 
 Hand-drawn educational infographic with macaron pastel color blocks on warm cream paper texture.

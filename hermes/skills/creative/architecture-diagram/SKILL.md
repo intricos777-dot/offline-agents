@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: architecture-diagram
 description: "Dark-themed SVG architecture/cloud/infra diagrams as HTML."

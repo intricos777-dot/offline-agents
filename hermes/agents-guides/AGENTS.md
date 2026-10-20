@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Hermes Agent - Development Guide
 
 Instructions for AI coding assistants and developers working on the hermes-agent codebase.

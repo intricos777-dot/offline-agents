@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # CI Troubleshooting Quick Reference
 
 Common CI failure patterns and how to diagnose them from the logs.

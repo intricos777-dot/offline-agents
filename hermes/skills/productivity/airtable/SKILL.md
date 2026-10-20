@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: airtable
 description: Airtable REST API via curl. Records CRUD, filters, upserts.

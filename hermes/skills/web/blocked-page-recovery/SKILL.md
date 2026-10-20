@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: blocked-page-recovery
 description: "Use when a fetch fails: 403/429, paywall, WAF, bot wall."

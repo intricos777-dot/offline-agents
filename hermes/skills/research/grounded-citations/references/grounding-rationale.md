@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Why numbered ledger ids (grounding research basis)
 
 Design notes for anyone changing the citation instructions or the ledger

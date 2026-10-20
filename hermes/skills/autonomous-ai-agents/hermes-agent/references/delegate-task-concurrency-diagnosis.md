@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # delegate_task: diagnosing "my batch was capped"
 
 When a user reports `delegate_task` ran fewer subagents than they asked for

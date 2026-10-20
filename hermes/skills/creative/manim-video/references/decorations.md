@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Decorations and Visual Polish
 
 Decorations are mobjects that annotate, highlight, or frame other mobjects. They turn a technically correct animation into a visually polished one.

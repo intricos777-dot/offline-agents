@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Troubleshooting
 
 Capture the actor, object ID and type, exact command, status code, and safe error body before changing approach.

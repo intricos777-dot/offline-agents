@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: anti-cheat
 description: Anti-cheat (GameGuard/nProtect, EAC, BattlEye) diagnostic flow and workarounds

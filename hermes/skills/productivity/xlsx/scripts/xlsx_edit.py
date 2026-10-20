@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Edit an existing .xlsx workbook in place (or to --out).
 
 Operations (repeatable where noted, applied in the order listed below):

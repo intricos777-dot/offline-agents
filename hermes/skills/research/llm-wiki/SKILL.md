@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: llm-wiki
 description: "Karpathy's LLM Wiki: build/query interlinked markdown KB."

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Box CLI guide
 
 Run Box commands through Hermes' `terminal` tool. Prefer the documented command in this skill over exploratory help calls. Use help only when a required option is absent here or the installed CLI rejects the syntax.

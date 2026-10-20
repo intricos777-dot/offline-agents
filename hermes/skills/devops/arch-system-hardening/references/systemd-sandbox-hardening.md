@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Systemd Sandbox Hardening Patterns
 
 When wrapping local services (especially those that bind ports or expose APIs), apply these directives from the systemd unit file:

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # apps/desktop/src/ — backend contract, slash palette, Bot Mode
 
 Applies on top of `apps/desktop/AGENTS.md` (the judgment guide) and the root `AGENTS.md`.

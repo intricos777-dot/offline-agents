@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Fill AcroForm fields from a UTF-8 JSON file; optionally flatten.
 
 The JSON is a flat object: {"FieldName": "value", "Agree": true, ...}

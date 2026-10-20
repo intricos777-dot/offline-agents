@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Review Output Template
 
 Use this as the structure for PR review summary comments. Copy and fill in the sections.

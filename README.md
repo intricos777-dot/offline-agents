@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # offline-agents — Hermes + OpenCode Offline Survival Kit
 
 Private repo for airgap reasoning. All agent resources (skills, templates, configs, Ollama modelfiles) live here so Hermes and OpenCode can reason without a provider.
@@ -15,7 +16,7 @@ After bootstrap:
 - Hermes skills load from `~/offline-agents/hermes/skills/` (symlinked to `~/.hermes/skills/`)
 - OpenCode reads `~/offline-agents/opencode/agent/build.md` (symlinked to `~/.config/opencode/agent/build.md`)
 - Ollama modelfiles in `~/offline-agents/ollama/modelfiles/` for reproducible local models
-- Tirith MCP + uv binaries symlinked into `~/offline-agents/hermes/bin/`
+- Tirith/uv binaries: install locally into `~/offline-agents/hermes/bin/` (bootstrap only links real, in-home binaries — it will not follow paths outside your home directory)
 
 ## Structure
 
@@ -24,7 +25,7 @@ offline-agents/
 ├── hermes/
 │   ├── skills/           # All Hermes skills (289 files, 13 categories)
 │   ├── memories/         # Memory ledger (MEMORY.md)
-│   ├── bin/              # Symlinks to tirith, uv, uvx
+│   ├── bin/              # Local tirith/uv binaries (no cross-user symlinks)
 │   ├── agents-guides/    # AGENTS.md hierarchy (12 files)
 │   ├── config.yaml.reference  # Config template (secrets redacted)
 │   └── SOUL.md           # Agent personality
@@ -69,7 +70,7 @@ in this repo already contains the provider block:
 ```jsonc
 {
   "$schema": "https://opencode.ai/config.json",
-  "mcp": {"tirith":["/home/sin/.hermes/bin/tirith","mcp-server"]},
+  "mcp": {"tirith":{"command":["tirith","mcp-server"],"enabled":false,"type":"local"}},
   "provider": {
     "ollama": {
       "npm": "@ai-sdk/openai-compatible",

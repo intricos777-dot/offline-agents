@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 /**
  * Hermes desktop plugin template. Save as:
  *   <hermes home>/desktop-plugins/<id>/plugin.js   (folder name == id)

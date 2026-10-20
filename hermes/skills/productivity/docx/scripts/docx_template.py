@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 # MIT License. Part of the Hermes docx skill.
 """Fill {{placeholder}} tokens in a .docx from a JSON mapping.
 

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # plugins/ — plugin kinds, compat contract, in-tree policy
 
 Applies on top of the root `AGENTS.md`. Authoring guide + canonical compat contract:

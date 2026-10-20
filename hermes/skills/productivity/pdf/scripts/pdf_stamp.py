@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Stamp text or an image at coordinates onto selected PDF pages.
 
 Builds an in-memory single-page overlay with reportlab, then merges it

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Scene System & Creative Composition
 
 > **See also:** architecture.md · composition.md · effects.md · shaders.md

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # tools/ + toolsets.py + model_tools.py — model tools
 
 Applies on top of the root `AGENTS.md`: settle the **Footprint Ladder** before adding anything here.

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # GitHub Authentication Setup
 
 This skill sets up authentication so the agent can work with GitHub repositories, PRs, issues, and CI. It covers two paths:
@@ -50,8 +51,9 @@ Tell the user to go to: **https://github.com/settings/tokens**
 **Step 2: Configure git to store the token**
 
 ```bash
-# Set up the credential helper to cache credentials
-# "store" saves to ~/.git-credentials in plaintext (simple, persistent)
+# SECURITY: "store" saves the token in plaintext at ~/.git-credentials.
+# Prefer "cache" (memory-only, below) when possible. If you must use
+# "store", lock the file down immediately: chmod 600 ~/.git-credentials
 git config --global credential.helper store
 
 # Now do a test operation that triggers auth — git will prompt for credentials

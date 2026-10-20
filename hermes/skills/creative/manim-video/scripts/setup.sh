@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 set -euo pipefail
 G="\033[0;32m"; R="\033[0;31m"; N="\033[0m"
 ok() { echo -e "  ${G}+${N} $1"; }

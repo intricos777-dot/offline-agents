@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Reference-aware restructuring (xlsx_restructure.py)
 
 `scripts/xlsx_restructure.py` performs one row/column insert or delete

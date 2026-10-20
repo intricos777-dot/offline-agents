@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Himalaya Configuration Reference
 
 Configuration file location: `~/.config/himalaya/config.toml`

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # venn-diagram
 
 Overlapping circles showing relationships, commonalities, and differences.

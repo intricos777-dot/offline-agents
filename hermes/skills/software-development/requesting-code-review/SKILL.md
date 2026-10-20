@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: requesting-code-review
 description: "Pre-commit review: security scan, quality gates, auto-fix."

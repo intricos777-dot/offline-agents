@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Extract page ranges from a PDF, optionally rotating and/or compressing pages."""
 from __future__ import annotations
 

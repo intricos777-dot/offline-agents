@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 /**
  * Reference user widget: a live clock docked above the status bar.
  * Copy to ~/.hermes/tui-widgets/clock.mjs, then `/widgets-reload` and `/clock`.

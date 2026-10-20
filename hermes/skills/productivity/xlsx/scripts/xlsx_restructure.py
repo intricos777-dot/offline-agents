@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Reference-aware row/column insert and delete for .xlsx workbooks.
 
 Unlike plain openpyxl insert_rows/delete_cols (and xlsx_edit.py's thin

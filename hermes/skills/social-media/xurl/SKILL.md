@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: xurl
 description: "X/Twitter via xurl CLI: raw post search, posting, DM, media."

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # comparison-matrix
 
 Grid-based multi-factor comparison across multiple items.

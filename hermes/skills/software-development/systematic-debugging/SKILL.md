@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: systematic-debugging
 description: "4-phase root cause debugging: understand bugs before fixing."

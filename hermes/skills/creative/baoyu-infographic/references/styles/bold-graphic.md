@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # bold-graphic
 
 High-contrast comic style with bold outlines and dramatic visuals.

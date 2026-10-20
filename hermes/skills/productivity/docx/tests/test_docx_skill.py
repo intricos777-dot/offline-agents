@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 # MIT License. End-to-end tests for the docx skill.
 """Pytest suite proving create / read / edit / template round-trips.
 

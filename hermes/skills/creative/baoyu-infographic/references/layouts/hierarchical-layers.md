@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # hierarchical-layers
 
 Nested layers showing levels of importance, influence, or proximity.

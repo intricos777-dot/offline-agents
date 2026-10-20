@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Google Workspace API CLI for Hermes Agent.
 
 Uses the Google Workspace CLI (`gws`) when available, but preserves the

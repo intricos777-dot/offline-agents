@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: popular-web-designs
 description: 54 real design systems (Stripe, Linear, Vercel) as HTML/CSS.

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # bento-grid
 
 Modular grid layout with varied cell sizes, like a bento box.

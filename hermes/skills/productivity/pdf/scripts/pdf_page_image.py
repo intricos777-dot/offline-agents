@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Export PDF pages as PNG images at a chosen DPI.
 
 Rasterizer fallback chain: pypdfium2 (pip) -> pdftoppm (poppler-utils).

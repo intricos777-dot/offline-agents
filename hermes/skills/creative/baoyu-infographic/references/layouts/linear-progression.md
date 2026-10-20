@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # linear-progression
 
 Sequential progression showing steps, timeline, or chronological events.

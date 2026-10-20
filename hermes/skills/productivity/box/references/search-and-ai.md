@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Search, metadata, and Box AI
 
 Use Box search and metadata before AI when they answer the request deterministically. For semantic understanding of Box-hosted files, prefer Box AI: it preserves Box permissions, processes source files through Box's governed AI integration, keeps source-file bodies out of Hermes' coding-model context, and scales document work without downloading every file. Do not block or criticize an explicitly chosen alternative workflow.

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # comic-strip
 
 Sequential narrative panels telling a story or explaining a concept.

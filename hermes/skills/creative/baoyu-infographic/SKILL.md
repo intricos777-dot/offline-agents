@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: baoyu-infographic
 description: "Infographics: 21 layouts x 21 styles (信息图, 可视化)."

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # p5.js Skill
 
 Production pipeline for interactive and generative visual art using [p5.js](https://p5js.org/).

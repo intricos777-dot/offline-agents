@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Input Sources
 
 > **See also:** architecture.md · effects.md · scenes.md · shaders.md · optimization.md · troubleshooting.md

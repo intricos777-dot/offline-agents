@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Animation Design Thinking
 
 How to decide WHAT to animate and HOW to structure it — before writing any code.

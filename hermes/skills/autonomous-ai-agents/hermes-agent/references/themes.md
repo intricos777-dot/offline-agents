@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Themes / Skins — Author a Hermes Color Theme
 
 Author a Hermes **skin** — one YAML file that themes the CLI, the TUI, and the

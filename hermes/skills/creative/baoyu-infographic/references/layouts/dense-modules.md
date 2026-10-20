@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # dense-modules
 
 High-density modular layout with 6-7 typed information modules packed with concrete data.

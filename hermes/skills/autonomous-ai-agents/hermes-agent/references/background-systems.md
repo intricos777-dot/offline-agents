@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Durable & Background Systems
 
 Four systems run alongside the main conversation loop. Quick reference

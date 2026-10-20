@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Architecture Reference
 
 > **See also:** composition.md · effects.md · scenes.md · shaders.md · inputs.md · optimization.md · troubleshooting.md

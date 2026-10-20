@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Resolve HERMES_HOME for standalone skill scripts.
 
 Skill scripts may run outside the Hermes process (e.g. system Python,

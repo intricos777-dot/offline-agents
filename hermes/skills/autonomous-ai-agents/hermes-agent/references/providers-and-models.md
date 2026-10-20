@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Providers & Model Aliases
 
 Set via `hermes model` (picker) or `hermes setup`. 35+ provider profiles ship as

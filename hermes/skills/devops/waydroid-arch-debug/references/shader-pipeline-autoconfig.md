@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Shader Pipeline Auto-Config & Self-Healing Scripts
 
 ## Scripts

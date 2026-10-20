@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: inspecting-hermes-desktop-dom
 description: "Read the live Hermes desktop DOM/CSS over CDP."

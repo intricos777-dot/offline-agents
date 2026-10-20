@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Webhooks and events
 
 Use webhooks for push notifications about a file or folder. Use Events API polling for catch-up, backfill, or a durable cursor. Webhook management requires a custom OAuth Platform App with the **Manage webhooks** scope; the official Box CLI OAuth app is not sufficient. Use the normal OAuth identity that owns or can access the target, not an administrator identity unless the target operation itself requires it.

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Infographic Content Analysis Framework
 
 Deep analysis framework applying instructional design principles to infographic creation.

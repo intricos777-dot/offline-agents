@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """
 maps_client.py - CLI tool for maps, geocoding, routing, POI search, and more.
 Uses only Python stdlib. Data from OpenStreetMap/Nominatim, Overpass API, OSRM,

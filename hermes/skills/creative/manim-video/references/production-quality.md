@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Production Quality Checklist
 
 Standards and checks for ensuring animation output is publication-ready.

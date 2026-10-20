@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Citation ledger for grounded answers and documents.
 
 Owns the ``url -> [n]`` mapping used by the ``grounded-citations`` skill.

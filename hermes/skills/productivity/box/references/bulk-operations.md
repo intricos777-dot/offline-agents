@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Bulk operations
 
 Use this workflow for more than a handful of files. Choose the current OAuth actor before inventorying; it can only process content that identity can access.

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: meeting-action-items
 description: "Turn meeting notes into cited decisions, owners, tickets."

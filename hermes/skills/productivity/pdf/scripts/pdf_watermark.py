@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Stamp/watermark every page of a PDF with page 1 of another PDF."""
 from __future__ import annotations
 

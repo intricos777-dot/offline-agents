@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # skills/ + optional-skills/ — bundled skills, authoring standards, curator
 
 Applies on top of the root `AGENTS.md`. Long-form: `website/docs/developer-guide/creating-skills.md`;

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # cyberpunk-neon
 
 Neon glow on dark backgrounds, futuristic aesthetic

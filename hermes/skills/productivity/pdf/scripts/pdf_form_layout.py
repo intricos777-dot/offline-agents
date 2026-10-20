@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Validate a form-spec layout BEFORE building the PDF, with optional
 visual overlay rendering for review with a vision model.
 

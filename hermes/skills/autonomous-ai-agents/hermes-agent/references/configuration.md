@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Configuration, Toolsets & Voice
 
 Edit with `hermes config edit` or `hermes config set section.key value`.

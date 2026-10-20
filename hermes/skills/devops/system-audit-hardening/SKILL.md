@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: system-audit-hardening
 description: Use when auditing and hardening an Arch/Garuda Linux system.

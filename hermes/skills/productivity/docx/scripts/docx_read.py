@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 # MIT License. Part of the Hermes docx skill.
 """Read a .docx: text, structure outline, styles, images, revision detection.
 

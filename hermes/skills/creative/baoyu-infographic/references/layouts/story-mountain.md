@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # story-mountain
 
 Plot structure visualization showing rising action, climax, and resolution.

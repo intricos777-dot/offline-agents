@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: btrfs-snapshot-restore
 description: Create, pin, prune, and restore from btrfs snapper snapshots on Garuda/Arch via the snapgood tool.

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Issue Taxonomy
 
 Use this taxonomy to classify issues found during dogfood QA testing.

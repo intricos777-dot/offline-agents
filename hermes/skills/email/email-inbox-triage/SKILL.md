@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: email-inbox-triage
 description: "Triage an inbox: prioritize threads, draft replies safely."

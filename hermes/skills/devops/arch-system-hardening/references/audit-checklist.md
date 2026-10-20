@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Arch System Audit Checklist
 
 One-shot checklist for cron or manual runs, including localhost pentest sweep.

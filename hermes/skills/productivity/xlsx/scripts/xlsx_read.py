@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Read an .xlsx workbook: inventory, JSON/CSV dumps, formula listing.
 
 Modes (pick one):

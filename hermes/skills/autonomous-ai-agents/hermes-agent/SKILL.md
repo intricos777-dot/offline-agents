@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: hermes-agent
 description: "Use, configure, theme, extend, and orchestrate Hermes Agent."

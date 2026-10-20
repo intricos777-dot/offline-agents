@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Manim Video Skill
 
 Production pipeline for mathematical and technical animations using [Manim Community Edition](https://www.manim.community/).

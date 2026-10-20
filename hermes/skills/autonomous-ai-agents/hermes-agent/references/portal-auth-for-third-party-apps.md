@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Nous Portal — authenticating third-party apps against the subscription
 
 Recurring user question: "Can app X (Karakeep, OpenWebUI, LibreChat, OpenViking,

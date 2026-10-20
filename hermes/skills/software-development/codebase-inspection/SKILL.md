@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: codebase-inspection
 description: "Inspect codebases w/ pygount: LOC, languages, ratios."

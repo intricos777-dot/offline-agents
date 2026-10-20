@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # tui_gateway/ + ui-tui/ — the TUI and its JSON-RPC backend
 
 Applies on top of the root `AGENTS.md`. The TUI fully replaces the classic prompt_toolkit CLI;

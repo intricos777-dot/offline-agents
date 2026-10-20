@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: document-to-action-items
 description: "Extract cited obligations, deadlines, tasks from documents."

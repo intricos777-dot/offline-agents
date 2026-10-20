@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """End-to-end tests for the pdf skill helper scripts. No network required."""
 from __future__ import annotations
 

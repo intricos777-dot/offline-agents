@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: test-driven-development
 description: "TDD: enforce RED-GREEN-REFACTOR, tests before code."

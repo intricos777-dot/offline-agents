@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Paper Explainer Workflow
 
 How to turn a research paper into an animated explainer video.

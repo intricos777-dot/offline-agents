@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """End-to-end tests for the xlsx skill helper scripts.
 
 Runs each script as a subprocess under LC_ALL=C to prove all text I/O

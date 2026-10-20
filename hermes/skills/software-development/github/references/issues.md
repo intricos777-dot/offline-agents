@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # GitHub Issues Management
 
 Create, search, triage, and manage GitHub issues. Each section shows `gh` first, then the `curl` fallback.

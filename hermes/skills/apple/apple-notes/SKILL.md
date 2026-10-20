@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: apple-notes
 description: "Manage Apple Notes via memo CLI: create, search, edit."

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # bridge
 
 Gap-crossing structure connecting problem to solution or current to future state.

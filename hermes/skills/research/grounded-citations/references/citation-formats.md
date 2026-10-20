@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Citation formats per output target
 
 The ledger is format-agnostic: `sources.py render --style ...` emits the block,

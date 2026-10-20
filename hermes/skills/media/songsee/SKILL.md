@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: songsee
 description: "Audio spectrograms/features (mel, chroma, MFCC) via CLI."

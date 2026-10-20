@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Encrypt or decrypt a PDF with passwords (AES-256 via pypdf).
 
 Note: permission flags set at encryption time are advisory — viewers may honor

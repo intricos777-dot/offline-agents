@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # SDK development
 
 Use this reference for shipped Box applications. For a one-off Hermes task, use the CLI references instead.

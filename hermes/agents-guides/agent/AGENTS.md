@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # agent/ — AIAgent, turn loop, prompt, compression
 
 Applies on top of the root `AGENTS.md` (prompt-caching invariant, facade + siblings rules).

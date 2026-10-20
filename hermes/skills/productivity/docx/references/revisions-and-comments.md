@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Revisions and Comments — XML details
 
 Deep reference for `docx_revisions.py` and `docx_comments.py`. Read this

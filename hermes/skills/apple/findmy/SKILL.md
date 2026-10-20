@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 ---
 name: findmy
 description: "Track Apple devices/AirTags via FindMy.app on macOS."

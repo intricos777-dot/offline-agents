@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Box Hubs
 
 Use a Box Hub for recurring Q&A over a curated knowledge base. A direct Box AI Ask request handles up to 25 selected files; a Hub request sends one `hubs` item and searches the Hub's indexed content. Do not use a Hub for metadata extraction or text generation.

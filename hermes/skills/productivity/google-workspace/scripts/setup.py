@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Google Workspace OAuth2 setup for Hermes Agent.
 
 Fully non-interactive — designed to be driven by the agent via terminal commands.

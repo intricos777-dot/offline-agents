@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Create a .pptx presentation from a JSON deck spec.
 
 Spec format (all positions/sizes in inches, colors as RRGGBB hex):

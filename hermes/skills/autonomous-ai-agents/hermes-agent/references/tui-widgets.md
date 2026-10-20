@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # TUI Widgets — Live Panels for the Ink TUI Dock
 
 Author widget apps for the Hermes TUI (`hermes --tui`): glanceable ambient

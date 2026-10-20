@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # dashboard
 
 Multi-metric display with charts, numbers, and KPI indicators.

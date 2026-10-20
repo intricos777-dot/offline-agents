@@ -1,4 +1,5 @@
 #!/bin/bash
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 # p5.js Skill — Local Development Server
 # Serves the current directory over HTTP for loading local assets (fonts, images)
 #

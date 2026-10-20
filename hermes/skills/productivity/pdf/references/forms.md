@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Building Fillable Forms: spec format and workflow
 
 The same JSON spec drives both `pdf_form_layout.py` (design lint) and

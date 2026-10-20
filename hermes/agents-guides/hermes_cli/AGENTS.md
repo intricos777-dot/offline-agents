@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # hermes_cli/ + cli.py — CLI, slash commands, config, skins, updater, profiles
 
 Applies on top of the root `AGENTS.md`. Long-form: `website/docs/developer-guide/cli-internals.md`.

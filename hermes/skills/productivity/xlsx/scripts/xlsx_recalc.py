@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Recalculate a workbook's formulas headlessly with LibreOffice.
 
 openpyxl never computes formulas. This script shells out to `soffice`

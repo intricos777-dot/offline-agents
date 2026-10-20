@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Slash Commands (In-Session)
 
 Registry of record: `hermes_cli/commands.py` (`COMMAND_REGISTRY`) — every

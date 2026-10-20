@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # isometric-map
 
 3D-style spatial layout showing locations, relationships, or journey through space.

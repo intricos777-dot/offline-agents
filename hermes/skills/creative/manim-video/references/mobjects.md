@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Mobjects Reference
 
 Everything visible on screen is a Mobject. They have position, color, opacity, and can be animated.

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # REST API fallback
 
 Use `box request` to extend the CLI when it has no dedicated subcommand. It reuses the configured Box identity, so continue ordinary requested work without asking the user to choose a REST fallback. Confirm only for deletes, access or identity changes, broad or costly batches, or an ambiguous target or scope. Use direct REST only when the CLI is unavailable or application code needs a raw endpoint that an SDK cannot cover.

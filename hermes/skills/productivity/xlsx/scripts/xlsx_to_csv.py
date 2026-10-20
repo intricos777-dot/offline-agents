@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Export one sheet of an .xlsx workbook to CSV.
 
 Dates/datetimes are written in ISO format; None becomes an empty field.

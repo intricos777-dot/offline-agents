@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Convert a CSV file to a styled .xlsx workbook with type inference.
 
 Type inference per cell (disable with --no-infer):

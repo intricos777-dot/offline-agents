@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Gmail Search Syntax
 
 Standard Gmail search operators work in the `query` argument.

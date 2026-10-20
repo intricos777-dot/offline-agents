@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Recover a blocked / paywalled / WAF'd page from third-party copies.
 
 Ladder (cheapest first):

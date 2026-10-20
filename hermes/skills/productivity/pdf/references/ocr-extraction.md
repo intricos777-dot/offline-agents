@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # OCR & Document Text Extraction (merged from the ocr-and-documents skill)
 
 Scripts referenced below live in this skill's scripts/ directory.

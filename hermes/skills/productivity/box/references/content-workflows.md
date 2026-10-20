@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Content workflows
 
 Use IDs, not paths, once an item is resolved. If the current OAuth identity cannot see the target, verify the exact item ID and ask the owner to invite that identity to the intended file, folder, or Hub.

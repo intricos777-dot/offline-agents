@@ -1,4 +1,5 @@
 #!/bin/bash
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 # p5.js Skill — Headless Render Pipeline
 # Renders a p5.js sketch to MP4 video via Puppeteer + ffmpeg
 #
