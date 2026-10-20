@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 # Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
+# Copyright (c) 2026 Living Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
+# Licensed under Living Sin Proprietary License (LSPL-1.0)
+# See LICENSE file for details.
 """Create a fillable AcroForm PDF from a JSON spec (reportlab canvas.acroForm).
 
 Spec format (UTF-8 JSON; coordinates in PDF points, origin bottom-left):

@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 # Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
+# Copyright (c) 2026 Living Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
+# Licensed under Living Sin Proprietary License (LSPL-1.0)
+# See LICENSE file for details.
 """Validate a form-spec layout BEFORE building the PDF, with optional
 visual overlay rendering for review with a vision model.
 

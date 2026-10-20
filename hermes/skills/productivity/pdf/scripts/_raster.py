@@ -1,4 +1,7 @@
 # Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
+# Copyright (c) 2026 Living Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
+# Licensed under Living Sin Proprietary License (LSPL-1.0)
+# See LICENSE file for details.
 """Shared page rasterizer with a fallback chain: pypdfium2 -> pdftoppm.
 
 Returns PIL Images so callers can annotate/save. Not a CLI.
