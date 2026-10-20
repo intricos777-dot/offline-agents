@@ -70,8 +70,8 @@ GameGuard (nProtect) uses ports 28910:28919 for auth handshake.
 
 ### External Monitors That Interfere With Gaming
 Check and optionally stop these before gaming:
-- `/home/sin/.local/bin/gpu-watchdog` — failover watchdog (safe; only acts on XID events, no idle overhead)
-- `/home/sin/miners/steam-pause-watcher.sh` — pauses miners on Steam start (safe; no overhead once miners paused)
+- `/home/livings/.local/bin/gpu-watchdog` — failover watchdog (safe; only acts on XID events, no idle overhead)
+- `/home/livings/miners/steam-pause-watcher.sh` — pauses miners on Steam start (safe; no overhead once miners paused)
 - `/usr/local/bin/satellite-detect monitor` — network interface monitor (low overhead; safe)
 - `plasma-systemmonitor` — KDE system monitor UI (closes cleanly, frees ~120MB)
 - `gdbus monitor` — KDE panel colorizer watches (safe; cosmetic only)

@@ -9,7 +9,7 @@
    cp /boot/vmlinuz-linux-zen /tmp/zen-iso/boot/
    cp /boot/initramfs-linux-zen.img /tmp/zen-iso/boot/
    cp /boot/initramfs-linux-zen-fallback.img /tmp/zen-iso/boot/
-   cp -r /home/sin/Projects/polsia/businesses/linux-zen-build/zen-suite/zen-core/* /tmp/zen-iso/zen-suite/
+   cp -r /home/livings/Projects/polsia/businesses/linux-zen-build/zen-suite/zen-core/* /tmp/zen-iso/zen-suite/
    ```
 
 2. **Write GRUB config** (`/tmp/zen-iso/boot/grub/grub.cfg`)
@@ -18,15 +18,15 @@
 
 3. **Build the ISO**
    ```bash
-   sudo grub-mkrescue /tmp/zen-iso -o /home/sin/zen-suite-bootable.iso
+   sudo grub-mkrescue /tmp/zen-iso -o /home/livings/zen-suite-bootable.iso
    ```
    Produces a hybrid El-Torito + MBR bootable ISO (~353 MB with kernel + initramfs).
 
 4. **Verify**
    ```bash
-   file /home/sin/zen-suite-bootable.iso    # "ISO 9660 CD-ROM filesystem data (DOS/MBR boot sector) ... bootable"
-   isosize /home/sin/zen-suite-bootable.iso
-   xorriso -indev /home/sin/zen-suite-bootable.iso -ls /
+   file /home/livings/zen-suite-bootable.iso    # "ISO 9660 CD-ROM filesystem data (DOS/MBR boot sector) ... bootable"
+   isosize /home/livings/zen-suite-bootable.iso
+   xorriso -indev /home/livings/zen-suite-bootable.iso -ls /
    ```
 
 ## ISO Contents Layout

@@ -2,7 +2,7 @@
 # Attack Monitoring Scripts
 
 ## attack-monitor.py
-Location: `/home/sin/bin/attack-monitor.py`
+Location: `/home/livings/bin/attack-monitor.py`
 
 A Python script that checks audit logs and system state for security events.
 
@@ -15,7 +15,7 @@ A Python script that checks audit logs and system state for security events.
 
 ### Running Manually
 ```bash
-python3 /home/sin/bin/attack-monitor.py
+python3 /home/livings/bin/attack-monitor.py
 ```
 
 ### Scheduled via systemd
@@ -28,7 +28,7 @@ After=auditd.service
 
 [Service]
 Type=oneshot
-ExecStart=/usr/bin/python3 /home/sin/bin/attack-monitor.py
+ExecStart=/usr/bin/python3 /home/livings/bin/attack-monitor.py
 User=root
 EOF
 

@@ -76,7 +76,7 @@ Place at `/bin/attack-monitor.py` for scheduled checks:
    On systemd/Arch-based systems (Garuda, Arch), `auth.log` is often absent — SSH and PAM events live in the journal only. Do not treat a missing `auth.log` as "no auth activity"; check `journalctl -u sshd` and `journalctl _SYSTEMD_UNIT=pam.unix` instead. If SSH daemon is disabled/inactive, there is no SSH exposure to assess. Also check whether `sshd` is enabled: `systemctl is-enabled sshd` — disabled+inactive means no SSH attack surface.
 
 3. **Attack monitor flags LOCAL processes, not just external attacks**
-   The monitor flags processes matching "miner", "stratum", "botnet" patterns. These are often self-run mining rigs (`/home/sin/miners/`) — local, user-launched processes, not intrusions. The same false-positive pattern applies to localhost listeners: crypto-bot node (4123), kdeconnectd (1716), SRBMiner API (21550) are all intentional local services. Triage every alert against `ps` / `ss` / the process binary path before treating it as an attack. An alert is a lead, not a conclusion. Check: `ps aux | grep <flagged-name>`, `ss -tunapl | grep <port>`, and the binary's real path (`ls -l /proc/<pid>/exe`) to determine if it's self-owned. See `devops/arch-system-hardening/references/network-listeners.md` for the full localhost service table and risk levels.
+   The monitor flags processes matching "miner", "stratum", "botnet" patterns. These are often self-run mining rigs (`/home/livings/miners/`) — local, user-launched processes, not intrusions. The same false-positive pattern applies to localhost listeners: crypto-bot node (4123), kdeconnectd (1716), SRBMiner API (21550) are all intentional local services. Triage every alert against `ps` / `ss` / the process binary path before treating it as an attack. An alert is a lead, not a conclusion. Check: `ps aux | grep <flagged-name>`, `ss -tunapl | grep <port>`, and the binary's real path (`ls -l /proc/<pid>/exe`) to determine if it's self-owned. See `devops/arch-system-hardening/references/network-listeners.md` for the full localhost service table and risk levels.
 
 4. **Martian source packets are often benign**
    `IPv4: martian source` from the system's own DNS server (e.g. 10.128.128.128) is frequently a routing/NAT artifact, not spoofed attack traffic. Check whether the source IP is a known local service (DNS, DHCP) before raising an alert. Firewall drop logs for such traffic show the guard is working, not that an attack is in progress. To triage: `nmcli device show | grep -i dns` to see if the source is your configured DNS; `ip neigh` to check if the MAC is your gateway; `sysctl net.ipv4.conf.*.log_martians` and `rp_filter` to see kernel settings; `dmesg` to check if the martian messages are from the current boot or old boots.
@@ -117,7 +117,7 @@ The `zen-vulkan-shader-cache.service` pre-warms Vulkan shader pipelines at boot:
 - Cache dir: `/var/cache/zen/shader-cache/` (zen:zen, 700)
 - Install script: `zen-core/modules/install-vulkan-shader-cache.sh`
 
-**Path mismatch trap**: the install script copies `.ts` → `.js` but the compiled JS hardcodes the source path (`/home/sin/zen-suite/` vs actual `/home/sin/zen/linux-zen-suite/`). After install, verify with `journalctl -u zen-vulkan-shader-cache -n 5` — "Loaded 0 shader variants" means path mismatch or wrong JSON shape.
+**Path mismatch trap**: the install script copies `.ts` → `.js` but the compiled JS hardcodes the source path (`/home/livings/zen-suite/` vs actual `/home/livings/zen/linux-zen-suite/`). After install, verify with `journalctl -u zen-vulkan-shader-cache -n 5` — "Loaded 0 shader variants" means path mismatch or wrong JSON shape.
 
 **zen user traversal**: parent directories must have +x for non-owners, or the zen user cannot reach the permutations file even if the file itself is 644. Check with `sudo -u zen stat <path>`.
 
@@ -145,7 +145,7 @@ journalctl -p warning --since "6 hours ago" --no-pager -q | grep -v 'powerdevil\
 ss -tlnp
 
 # Hermes config check
-grep 'default:' /home/sin/.hermes/config.yaml | head -2
+grep 'default:' /home/livings/.hermes/config.yaml | head -2
 ```
 
 ## Example Cron/Scheduled Check

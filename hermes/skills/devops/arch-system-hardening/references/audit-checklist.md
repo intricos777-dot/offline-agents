@@ -9,7 +9,7 @@ One-shot checklist for cron or manual runs, including localhost pentest sweep.
 # System state
 uname -r; df -h /; pacman -Qdtq; checkupdates 2>/dev/null | wc -l
 systemctl list-units --failed --no-pager; ss -tlnp
-grep 'default:' /home/sin/.hermes/config.yaml
+grep 'default:' /home/livings/.hermes/config.yaml
 
 # Localhost recon — what's listening and who owns it?
 sudo ss -tulpn | grep LISTEN
@@ -53,7 +53,7 @@ journalctl -p warning --since "1 day ago" --no-pager -q 2>/dev/null | grep -v 'p
 pacman -Qk 2>/dev/null | grep 'missing files'
 snapper list 2>/dev/null | tail -5
 cat /etc/NetworkManager/conf.d/99-privacy.conf 2>/dev/null
-grep 'default:' /home/sin/.hermes/config.yaml
+grep 'default:' /home/livings/.hermes/config.yaml
 ```
 
 ### Auditd verification

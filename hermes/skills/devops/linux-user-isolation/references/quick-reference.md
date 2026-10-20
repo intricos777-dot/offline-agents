@@ -11,11 +11,11 @@
 ### Key Paths
 - Hermes launcher: `/usr/local/bin/hermes-launcher` (not yet created — blocked pending user consent)
 - OpenCode launcher: `/usr/local/bin/opencode-launcher` (not yet created)
-- Hermes venv Python: `/home/sin/.hermes/hermes-agent/venv/bin/python`
-- Hermes CLI script: `/home/sin/.hermes/hermes-agent/hermes`
+- Hermes venv Python: `/home/livings/.hermes/hermes-agent/venv/bin/python`
+- Hermes CLI script: `/home/livings/.hermes/hermes-agent/hermes`
 - OpenCode binary: `/usr/bin/opencode`
-- Hermes wrapper shim: `/home/sin/.local/bin/hermes` (bash wrapper, root-owned, small)
-- Hermes config/data: `/home/sin/.hermes/` (copied to `/home/ai/.hermes/`)
+- Hermes wrapper shim: `/home/livings/.local/bin/hermes` (bash wrapper, root-owned, small)
+- Hermes config/data: `/home/livings/.hermes/` (copied to `/home/ai/.hermes/`)
 
 ### Firewall State Before Block
 - nftables: table `inet firewalld` active, owned by firewalld

@@ -61,7 +61,7 @@ cat /proc/<PID>/cmdline | tr '\0' ' '
 - **NM privacy.conf key** — Use `mac-address-seeded` not `new-cloned-mac-address`
 - **AUR packages** — Review before removing; cpuminer/hermes-pm/zen-suite may be intentional
 - **Model mismatch** — hermes config may lag provider switch; verify with `grep default`
-- **Rate limit errors** — Old model errors linger in logs after switch; check `grep -c 'RateLimitError' /home/sin/.hermes/logs/errors.log`
+- **Rate limit errors** — Old model errors linger in logs after switch; check `grep -c 'RateLimitError' /home/livings/.hermes/logs/errors.log`
 - **nmap requires root** for `-sU` (UDP) and `-sS` (SYN scan) — use `sudo -n nmap` for full-spectrum localhost scans
 - **Port 21550 bound to 0.0.0.0 is a false-negative risk** — firewalld blocks it externally, but if firewalld restarts in a degraded state, SRBMiner API is internet-exposed. Bind to `127.0.0.1` or use `--api-bind 127.0.0.1`.
 - **Local API `/exec` endpoints leak env to child processes** — `child_process.exec` with `env: { ...process.env }` passes ALL environment variables (including secrets, tokens, HOME paths) to the spawned shell. Always filter to a minimal env: `env: { PATH: '/usr/local/bin:/usr/bin:/bin', HOME: process.env.HOME || '/tmp' }`.

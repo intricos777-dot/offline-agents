@@ -24,12 +24,12 @@ Build a bootable ISO containing a compiled Linux kernel, initramfs, GRUB2 bootlo
 
 2. **Prepare chroot** — use the existing arch-zen build script or pacstrap manually:
    ```
-   sudo bash /home/sin/zen/zen-suite-gh/arch-zen/build.sh
+   sudo bash /home/livings/zen/zen-suite-gh/arch-zen/build.sh
    ```
    If build.sh fails, create chroot manually:
    ```
-   sudo mkdir -p /home/sin/zen/zen-suite-gh/arch-zen/work/chroot
-   sudo pacstrap -c /home/sin/zen/zen-suite-gh/arch-zen/work/chroot base linux linux-firmware
+   sudo mkdir -p /home/livings/zen/zen-suite-gh/arch-zen/work/chroot
+   sudo pacstrap -c /home/livings/zen/zen-suite-gh/arch-zen/work/chroot base linux linux-firmware
    ```
 
 3. **Configure chroot** — critical for DNS resolution inside chroot:
@@ -47,8 +47,8 @@ Build a bootable ISO containing a compiled Linux kernel, initramfs, GRUB2 bootlo
 5. **Copy Zen-Core modules** into chroot:
    ```
    sudo mkdir -p ${CHROOT}/opt/zen-core/modules
-   sudo cp -a /home/sin/zen/linux-zen-suite/zen-core/modules/. ${CHROOT}/opt/zen-core/modules/
-   sudo cp -a /home/sin/zen/linux-zen-suite/zen-core/. ${CHROOT}/opt/zen-core/
+   sudo cp -a /home/livings/zen/linux-zen-suite/zen-core/modules/. ${CHROOT}/opt/zen-core/modules/
+   sudo cp -a /home/livings/zen/linux-zen-suite/zen-core/. ${CHROOT}/opt/zen-core/
    ```
 
 6. **Copy isolinux boot files** into chroot BEFORE building:

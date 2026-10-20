@@ -1,6 +1,6 @@
 <!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
-Fleet: snapshot 107, tor/dnscrypt, Zen Healer v1 (5min). Ollama 4141 = Hermes gateway. Security audit: /home/sin/security-audit-2026/. Waydroid 192.168.240.112 restored 9/17. crypto-bot e969189 unpushed (keys purged 373a805). Autopatch engine /home/sin/autopatch/ — 30min timer active.
+Fleet: snapshot 107, tor/dnscrypt, Zen Healer v1 (5min). Ollama 4141 = Hermes gateway. Security audit: /home/livings/security-audit-2026/. Waydroid 192.168.240.112 restored 9/17. crypto-bot e969189 unpushed (keys purged 373a805). Autopatch engine /home/livings/autopatch/ — 30min timer active.
 §
-Polsia: github.com/intricos777-dot/polsia (ledger.py, payouts.py CLI). PayPal NOT wired. polsia-lawsuit private repo. workdir=/home/sin for terminal.
+Polsia: github.com/intricos777-dot/polsia (ledger.py, payouts.py CLI). PayPal NOT wired. polsia-lawsuit private repo. workdir=/home/livings for terminal.
 §
 Master TODO 9/18: P0 Hermes local Ollama 4141 FIXED (reasoning_overrides). NEXT: Hermes+OpenCode offline survival kit — private local repo with agent skills/templates for airgap reasoning. P2 user-only: COINBASE_WALLET_ID for /sweep, push crypto-bot, PayPal (deferred), tailscale up, ISO rebuild, gameguard dup disable, Steam 198G offload. All P1 closed by fleet.
